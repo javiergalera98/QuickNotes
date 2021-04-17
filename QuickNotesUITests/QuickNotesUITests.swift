@@ -2,7 +2,7 @@
 //  QuickNotesUITests.swift
 //  QuickNotesUITests
 //
-//  Created by Javier Galera Robles on 21/3/22.
+//  Created by Javier Galera Robles on 8/4/21.
 //
 
 import XCTest
@@ -27,6 +27,7 @@ class QuickNotesUITests: XCTestCase {
         let app = XCUIApplication()
         app.launch()
 
+        // Use recording to get started writing UI tests.
         // Use XCTAssert and related functions to verify your tests produce the correct results.
     }
 
